@@ -24,14 +24,14 @@
 <img align="left" width="186.5" src="https://github.com/cheakhokkeat.png" alt="GitHub profile picture" />
 
 ```yaml
-N4M3            :: Cheakhok Keat
-10C4710N        :: Cambodia
-UN1V3R517Y      :: Norton University
-M4J0R           :: Software Development
-4C4D3M1C_L3V3L  :: Second-year student
-R0L3            :: Software Development Student
-C4R33R_74RG37   :: Full-Stack Developer
-5747U5          :: Learning | Building | Improving
+N4M3: Cheakhok Keat
+10C4710N: Cambodia
+UN1V3R517Y: Norton University
+M4J0R: Software Development
+4C4D3M1C_L3V3L: Second-year student
+R0L3: Software Development Student
+C4R33R_74RG37: Full-Stack Developer
+5747U5: Learning | Building | Improving
 ```
 
 I'm a **Software Development student**, currently building practical skills across frontend, backend, and databases. I learn best by building small real projects and researching problems as they come up.
@@ -124,22 +124,39 @@ I'm a **Software Development student**, currently building practical skills acro
 <div align="center">
 
 <img src="https://damner-api.vercel.app/api/progress?label=html5&percent=100" width="300" alt="HTML5"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=css3&percent=90" width="300" alt="CSS3"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=bootstrap&percent=90" width="300" alt="Bootstrap"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=tailwind css&percent=90" width="300" alt="Tailwind CSS"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=prompt engineering&percent=80" width="300" alt="Prompt Engineering"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=git and github&percent=70" width="300" alt="Git and GitHub"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=java&percent=60" width="300" alt="Java"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=python&percent=70" width="300" alt="Python"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=c sharp dot net&percent=60" width="300" alt="C sharp"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=sql postgresql&percent=60" width="300" alt="SQL PostgreSQL"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=ai machine learning&percent=50" width="300" alt="AI machine learning"/>
+
 <img src="https://damner-api.vercel.app/api/progress?label=backend development&percent=40" width="300" />
+
 <img src="https://damner-api.vercel.app/api/progress?label=linux cli&percent=40" width="300" />
+
 <img src="https://damner-api.vercel.app/api/progress?label=java script&percent=30" width="300" />
+
 </div>
+
 <a href="https://github.com/cheakhokkeat">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=This progress bar made by Damner-API;Customize your skills levels;Just change label and percent;Dynamic progress;អរគុណ!" alt="Reference" />
+
 </a>
 
 ---
@@ -317,6 +334,7 @@ Grow into a Full-Stack Developer, progress toward technical leadership or manage
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cheakhokkeat&show_icons=true&hide_border=false&border_color=00BFFF&bg_color=050A0F&title_color=00BFFF&icon_color=39FF14&text_color=C9D1D9&ring_color=00BFFF" alt="GitHub statistics" />
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheakhokkeat&layout=compact&langs_count=8&hide_border=false&border_color=00BFFF&bg_color=050A0F&title_color=00BFFF&text_color=C9D1D9" alt="Most used languages" />
 
 <br />
