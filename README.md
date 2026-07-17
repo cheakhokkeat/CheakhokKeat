@@ -123,34 +123,34 @@ I'm a **Software Development student**, currently building practical skills acro
 
 <div align="center">
 
-<img src="https://damner-api.vercel.app/api/progress?label=html5&percent=100&v=2"
+<img src="./assets/progress/html5.svg"
      width="300" alt="HTML5"/>
-<img src="https://damner-api.vercel.app/api/progress?label=css3&percent=90&v=2"
+<img src="./assets/progress/css3.svg"
      width="300" alt="CSS3"/>
-<img src="https://damner-api.vercel.app/api/progress?label=bootstrap&percent=90&v=2"
-     width="300" alt="Bootstrap"/>
-<img src="https://damner-api.vercel.app/api/progress?label=tailwind%20css&percent=90&v=2"
+<img src="./assets/progress/bootstrap.svg"
+     width="300" alt=""/>
+<img src="./assets/progress/tailwind_css.svg"
      width="300" alt="Tailwind CSS"/>
-<img src="https://damner-api.vercel.app/api/progress?label=prompt%20engineering&percent=80&v=2"
+<img src="./assets/progress/prompt_engineering.svg"
      width="300" alt="Prompt Engineering"/>
-<img src="https://damner-api.vercel.app/api/progress?label=git%20and%20github&percent=70&v=2"
+<img src="./assets/progress/git_and_github.svg"
      width="300" alt="Git and GitHub"/>
-<img src="https://damner-api.vercel.app/api/progress?label=java&percent=60&v=2"
+<img src="./assets/progress/java.svg"
      width="300" alt="Java"/>
-<img src="https://damner-api.vercel.app/api/progress?label=python&percent=70&v=2"
+<img src="./assets/progress/python.svg"
      width="300" alt="Python"/>
-<img src="https://damner-api.vercel.app/api/progress?label=c%20sharp%20dot%20net&percent=60&v=2"
+<img src="./assets/progress/c_sharp_dot_net.svg"
      width="300" alt="C Sharp .NET"/>
-<img src="https://damner-api.vercel.app/api/progress?label=sql%20postgresql&percent=60&v=2"
+<img src="./assets/progress/sql_postgresql.svg"
      width="300" alt="SQL PostgreSQL"/>
-<img src="https://damner-api.vercel.app/api/progress?label=ai%20machine%20learning&percent=50&v=2"
+<img src="./assets/progress/ai_machine_learning.svg"
      width="300" alt="AI Machine Learning"/>
-<img src="https://damner-api.vercel.app/api/progress?label=backend%20development&percent=40&v=2"
+<img src="./assets/progress/backend_development.svg"
      width="300" alt="Backend Development"/>
-<img src="https://damner-api.vercel.app/api/progress?label=linux%20cli&percent=40&v=2"
-     width="300" alt="Linux CLI"/>
-<img src="https://damner-api.vercel.app/api/progress?label=javascript&percent=30&v=2"
+<img src="./assets/progress/java_script.svg"
      width="300" alt="JavaScript"/>
+<img src="./assets/progress/linux_cli.svg"
+     width="300" alt="Linux CLI"/>
 
 </div>
 
