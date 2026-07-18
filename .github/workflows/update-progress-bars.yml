@@ -1,0 +1,44 @@
+name: Update Progress Bars
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+    paths:
+      - "progress-bars.json"
+      - "scripts/generate_progress_bars.py"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate progress SVG files
+        run: python scripts/generate_progress_bars.py
+
+      - name: Commit generated SVG files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/progress/*.svg
+
+          if git diff --cached --quiet; then
+            echo "No progress bar changes to commit."
+          else
+            git commit -m "chore: update progress bar SVGs"
+            git push
+          fi

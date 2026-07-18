@@ -123,39 +123,43 @@ I'm a **Software Development student**, currently building practical skills acro
 
 <div align="center">
 
-<img src="https://damner-api.vercel.app/api/progress?label=html5&percent=100" width="300" alt="HTML5"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=css3&percent=90" width="300" alt="CSS3"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=bootstrap&percent=90" width="300" alt="Bootstrap"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=tailwind css&percent=90" width="300" alt="Tailwind CSS"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=prompt engineering&percent=80" width="300" alt="Prompt Engineering"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=git and github&percent=70" width="300" alt="Git and GitHub"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=java&percent=60" width="300" alt="Java"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=python&percent=70" width="300" alt="Python"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=c sharp dot net&percent=60" width="300" alt="C sharp"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=sql postgresql&percent=60" width="300" alt="SQL PostgreSQL"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=ai machine learning&percent=50" width="300" alt="AI machine learning"/>
-
-<img src="https://damner-api.vercel.app/api/progress?label=backend development&percent=40" width="300" />
-
-<img src="https://damner-api.vercel.app/api/progress?label=linux cli&percent=40" width="300" />
-
-<img src="https://damner-api.vercel.app/api/progress?label=java script&percent=30" width="300" />
+<img src="https://damner-api.vercel.app/api/progress?label=html5&percent=100&v=2"
+     width="300" alt="HTML5"/>
+<img src="https://damner-api.vercel.app/api/progress?label=css3&percent=90&v=2"
+     width="300" alt="CSS3"/>
+<img src="https://damner-api.vercel.app/api/progress?label=bootstrap&percent=90&v=2"
+     width="300" alt="Bootstrap"/>
+<img src="https://damner-api.vercel.app/api/progress?label=tailwind%20css&percent=90&v=2"
+     width="300" alt="Tailwind CSS"/>
+<img src="https://damner-api.vercel.app/api/progress?label=prompt%20engineering&percent=80&v=2"
+     width="300" alt="Prompt Engineering"/>
+<img src="https://damner-api.vercel.app/api/progress?label=git%20and%20github&percent=70&v=2"
+     width="300" alt="Git and GitHub"/>
+<img src="https://damner-api.vercel.app/api/progress?label=java&percent=60&v=2"
+     width="300" alt="Java"/>
+<img src="https://damner-api.vercel.app/api/progress?label=python&percent=70&v=2"
+     width="300" alt="Python"/>
+<img src="https://damner-api.vercel.app/api/progress?label=c%20sharp%20dot%20net&percent=60&v=2"
+     width="300" alt="C Sharp .NET"/>
+<img src="https://damner-api.vercel.app/api/progress?label=sql%20postgresql&percent=60&v=2"
+     width="300" alt="SQL PostgreSQL"/>
+<img src="https://damner-api.vercel.app/api/progress?label=ai%20machine%20learning&percent=50&v=2"
+     width="300" alt="AI Machine Learning"/>
+<img src="https://damner-api.vercel.app/api/progress?label=backend%20development&percent=40&v=2"
+     width="300" alt="Backend Development"/>
+<img src="https://damner-api.vercel.app/api/progress?label=linux%20cli&percent=40&v=2"
+     width="300" alt="Linux CLI"/>
+<img src="https://damner-api.vercel.app/api/progress?label=javascript&percent=30&v=2"
+     width="300" alt="JavaScript"/>
 
 </div>
 
 <a href="https://github.com/cheakhokkeat">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=This progress bar made by Damner-API;Customize your skills levels;Just change label and percent;Dynamic progress;អរគុណ!" alt="Reference" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Progress+bars+powered+by+Damner-API;Customize+your+skill+levels;Change+the+label+and+percent+values;Dynamic+and+easy+to+update;%E1%9E%A2%E1%9E%9A%E1%9E%82%E1%9E%BB%E1%9E%8E!"
+  alt="Progress bar reference"
+/>
 
 </a>
 
@@ -333,17 +337,29 @@ Grow into a Full-Stack Developer, progress toward technical leadership or manage
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cheakhokkeat&show_icons=true&hide_border=false&border_color=00BFFF&bg_color=050A0F&title_color=00BFFF&icon_color=39FF14&text_color=C9D1D9&ring_color=00BFFF" alt="GitHub statistics" />
+<img width="49%" 
+src="https://github-readme-stats.vercel.app/api?username=cheakhokkeat&show_icons=true&hide_border=false&border_color=00BFFF&bg_color=050A0F&title_color=00BFFF&icon_color=39FF14&text_color=C9D1D9&ring_color=00BFFF" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheakhokkeat&layout=compact&langs_count=8&hide_border=false&border_color=00BFFF&bg_color=050A0F&title_color=00BFFF&text_color=C9D1D9" alt="Most used languages" />
+<img 
+width="49%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheakhokkeat&layout=compact&langs_count=8&hide_border=false&border_color=00BFFF&bg_color=050A0F&title_color=00BFFF&text_color=C9D1D9" 
+alt="Most used languages" />
+
+  <br />
+
+<img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=cheakhokkeat&theme=dark&hide_border=false&border=00BFFF&background=050A0F&stroke=00BFFF&ring=00BFFF&fire=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=39FF14&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
 
 <br />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=cheakhokkeat&theme=dark&hide_border=false&border=00BFFF&background=050A0F&stroke=00BFFF&ring=00BFFF&fire=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=39FF14&dates=8B949E" alt="GitHub contribution streak" />
-
-<br />
-
-<img width="98%" src="./assets/activity-candles.svg" alt="GitHub contribution activity candlestick chart" />
+<img
+    width="98%"
+    src="./assets/activity-candles.svg"
+    alt="GitHub contribution activity candlestick chart"
+  />
 
 </div>
 
@@ -353,7 +369,11 @@ Grow into a Full-Stack Developer, progress toward technical leadership or manage
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=cheakhokkeat&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies" />
+<img
+  width="100%"
+  src="https://github-profile-trophy.vercel.app/?username=cheakhokkeat&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8"
+  alt="Cheakhok Keat GitHub trophies"
+/>
 
 </div>
 
@@ -363,11 +383,21 @@ Grow into a Full-Stack Developer, progress toward technical leadership or manage
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+    />
+  </picture>
 
 </div>
 
@@ -381,7 +411,7 @@ Grow into a Full-Stack Developer, progress toward technical leadership or manage
 "Every small project is another step toward becoming a better developer."
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Think+clearly.+Build+carefully.;Learn+from+every+error.;;A+bug+is+a+lesson+with+a+stack+trace.;Keep+coding.+Keep+improving.;🫶🏻 I LOVE YOU 🫶🏻;" alt="Animated developer quotes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Think+clearly.+Build+carefully.;Learn+from+every+error.;;A+bug+is+a+lesson+with+a+stack+trace.;Keep+coding.+Keep+improving.;%F0%9F%AB%B6%F0%9F%8F%BB+I+LOVE+YOU+%F0%9F%AB%B6%F0%9F%8F%BB" alt="Animated developer quotes" />
 
 </div>
 
