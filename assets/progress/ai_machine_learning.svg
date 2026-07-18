@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="44" viewBox="0 0 320 44">
+  <rect x="0.5" y="0.5" width="319" height="43" rx="8" fill="#050A0F" stroke="#00BFFF" stroke-opacity="0.45"/>
+  <text x="12" y="18" fill="#C9D1D9" font-size="12" font-family="Consolas, monospace">AI Machine Learning</text>
+  <text x="308" y="18" fill="#C9D1D9" font-size="12" font-family="Consolas, monospace" text-anchor="end">65%</text>
+  <rect x="12" y="24" width="296" height="10" rx="5" fill="#123038"/>
+  <rect x="12" y="24" width="192.4" height="10" rx="5" fill="#00BFFF"/>
+</svg>
