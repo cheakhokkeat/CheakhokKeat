@@ -24,14 +24,14 @@
 <img align="left" width="186.5" src="https://github.com/cheakhokkeat.png" alt="GitHub profile picture" />
 
 ```yaml
-N4M3: Cheakhok Keat
-10C4710N: Cambodia
-UN1V3R517Y: Norton University
-M4J0R: Software Development
-4C4D3M1C_L3V3L: Second-year student
-R0L3: Software Development Student
-C4R33R_74RG37: Full-Stack Developer
-5747U5: Learning | Building | Improving
+NAME          : Cheakhok Keat
+LOCATION      : Phnom Penh, Cambodia
+FROM          : Tboung Khmum, Cambodia
+UNIVERSITY    : Norton University
+MAJOR         : Software Development
+ROLE          : Software Development Student
+CAREER_TARGET : Full-Stack Developer
+STATUS        : Learning | Building | Improving
 ```
 
 I'm a **Software Development student**, currently building practical skills across frontend, backend, and databases. I learn best by building small real projects and researching problems as they come up.
