@@ -1,16 +1,57 @@
 [
-  { "file": "html5", "label": "HTML5", "percent": 100 },
-  { "file": "css3", "label": "CSS3", "percent": 95 },
-  { "file": "bootstrap", "label": "Bootstrap", "percent": 95 },
-  { "file": "tailwind_css", "label": "Tailwind CSS", "percent": 90 },
-  { "file": "prompt_engineering", "label": "Prompt Engineering", "percent": 90 },
-  { "file": "git_and_github", "label": "Git and GitHub", "percent": 80 },
-  { "file": "java", "label": "Java", "percent": 65 },
-  { "file": "python", "label": "Python", "percent": 85 },
-  { "file": "c_sharp_dot_net", "label": "C# Dot Net", "percent": 65 },
-  { "file": "sql_postgresql", "label": "SQL PostgreSQL", "percent": 60 },
-  { "file": "ai_machine_learning", "label": "AI Machine Learning", "percent": 65 },
-  { "file": "backend_development", "label": "Backend Developer", "percent": 50 },
-  { "file": "java_script", "label": "Java Script", "percent": 65 },
-  { "file": "linux_cli", "label": "Linux CLI", "percent": 50 }
+  { "file": "html5", 
+  "label": "HTML5", 
+  "percent": 100 },
+
+  { "file": "css3", 
+  "label": "CSS3", 
+  "percent": 95 },
+
+  { "file": "bootstrap", 
+  "label": "Bootstrap", 
+  "percent": 95 },
+
+  { "file": "tailwind_css", 
+  "label": "Tailwind CSS", 
+  "percent": 90 },
+
+  { "file": "prompt_engineering", 
+  "label": "Prompt Engineering", 
+  "percent": 90 },
+
+  { "file": "git_and_github", 
+  "label": "Git and GitHub", 
+  "percent": 80 },
+
+  { "file": "java", 
+  "label": "Java", 
+  "percent": 65 },
+
+  { "file": "python", 
+  "label": "Python", 
+  "percent": 85 },
+
+  { "file": "c_sharp_dot_net", 
+  "label": "C# Dot Net", 
+  "percent": 65 },
+
+  { "file": "sql_postgresql", 
+  "label": "SQL PostgreSQL", 
+  "percent": 60 },
+
+  { "file": "ai_machine_learning", 
+  "label": "AI Machine Learning", 
+  "percent": 65 },
+
+  { "file": "backend_development", 
+  "label": "Backend Developer", 
+  "percent": 50 },
+
+  { "file": "java_script", 
+  "label": "Java Script", 
+  "percent": 65 },
+
+  { "file": "linux_cli", 
+  "label": "Linux CLI", 
+  "percent": 50 }
 ]
