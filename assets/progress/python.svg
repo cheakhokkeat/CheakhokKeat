@@ -1,7 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="44" viewBox="0 0 320 44">
-  <rect x="0.5" y="0.5" width="319" height="43" rx="8" fill="#050A0F" stroke="#00BFFF" stroke-opacity="0.45"/>
-  <text x="12" y="18" fill="#C9D1D9" font-size="12" font-family="Consolas, monospace">Python</text>
-  <text x="308" y="18" fill="#C9D1D9" font-size="12" font-family="Consolas, monospace" text-anchor="end">85%</text>
-  <rect x="12" y="24" width="296" height="10" rx="5" fill="#123038"/>
-  <rect x="12" y="24" width="251.6" height="10" rx="5" fill="#00BFFF"/>
+<svg width="410" height="70" viewBox="0 0 410 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="408" height="68" rx="6" fill="#050A0F" stroke="#2EE5B8" stroke-width="1" opacity="0.55"/>
+
+  <path d="M6 14 V6 H14" fill="none" stroke="#2EE5B8" stroke-width="2" filter="url(#glow)"/>
+  <path d="M396 6 H404 V14" fill="none" stroke="#2EE5B8" stroke-width="2" filter="url(#glow)"/>
+  <path d="M6 56 V64 H14" fill="none" stroke="#2EE5B8" stroke-width="2" filter="url(#glow)"/>
+  <path d="M396 64 H404 V56" fill="none" stroke="#2EE5B8" stroke-width="2" filter="url(#glow)"/>
+
+  <text x="20" y="20" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#C9D1D9">PYTHON</text>
+  <text x="390" y="20" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="bold" fill="#2EE5B8" text-anchor="end" filter="url(#glow)">85%</text>
+
+  <rect x="20.0" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="35.4" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="50.8" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="66.2" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="81.7" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="97.1" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="112.5" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="127.9" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="143.3" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="158.8" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="174.2" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="189.6" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="205.0" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="220.4" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="235.8" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="251.2" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="266.7" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="282.1" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="297.5" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="312.9" y="34" width="12.4" height="14" fill="#2EE5B8" stroke="#2EE5B8" stroke-width="0.6" opacity="1" rx="1.5"/><rect x="328.3" y="34" width="12.4" height="14" fill="#0A1A1F" stroke="#123038" stroke-width="0.6" opacity="0.5" rx="1.5"/><rect x="343.8" y="34" width="12.4" height="14" fill="#0A1A1F" stroke="#123038" stroke-width="0.6" opacity="0.5" rx="1.5"/><rect x="359.2" y="34" width="12.4" height="14" fill="#0A1A1F" stroke="#123038" stroke-width="0.6" opacity="0.5" rx="1.5"/><rect x="374.6" y="34" width="12.4" height="14" fill="#0A1A1F" stroke="#123038" stroke-width="0.6" opacity="0.5" rx="1.5"/>
 </svg>
