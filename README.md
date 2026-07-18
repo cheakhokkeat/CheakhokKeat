@@ -158,7 +158,7 @@ I'm a **Software Development student**, currently building practical skills acro
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;Always+Learning+New+Technologies;Turning+Ideas+into+Code;%E1%9E%A2%E1%9E%9A%E1%9E%82%E1%9E%BB%E1%9E%8E!"
-  alt="Progress bar reference"
+  alt="Animated developer quotes"
 />
 
 </a>
