@@ -421,28 +421,28 @@ alt="Most used languages" />
 
 <div align="center">
 
-<a href="https://github.com/cheakhokkeat">
+<a href="https://github.com/cheakhokkeat" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-050A0F?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub" />
 </a>
-<a href="https://www.facebook.com/100045519039016">
+<a href="https://www.facebook.com/100045519039016" target="_blank">
   <img src="https://img.shields.io/badge/FACEBOOK-050A0F?style=for-the-badge&logo=facebook&logoColor=00BFFF" alt="Facebook" />
 </a>
-<a href="https://www.instagram.com/cheakhokkeat">
+<a href="https://www.instagram.com/cheakhokkeat" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-050A0F?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram" />
 </a>
-<a href="https://t.me/cheakhokkeat">
+<a href="https://t.me/cheakhokkeat" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-050A0F?style=for-the-badge&logo=telegram&logoColor=00BFFF" alt="Telegram" />
 </a>
-<a href="https://t.me/cheakhokkeatofficial">
+<a href="https://t.me/cheakhokkeatofficial" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM COMUNITY-050A0F?style=for-the-badge&logo=telegram&logoColor=00BFFF" alt="Telegram Community" />
 </a>
-<a href="https://www.youtube.com/channel/UCTWO0kbbori1ESkdxPZSn4A?sub_confirmation=1">
+<a href="https://www.youtube.com/channel/UCTWO0kbbori1ESkdxPZSn4A?sub_confirmation=1" target="_blank">
   <img src="https://img.shields.io/badge/YOUTUBE-050A0F?style=for-the-badge&logo=youtube&logoColor=00BFFF" alt="YouTube" />
 </a>
-<a href="https://www.tiktok.com/@7613071806707139614">
+<a href="https://www.tiktok.com/@7613071806707139614" target="_blank">
   <img src="https://img.shields.io/badge/TIKTOK-050A0F?style=for-the-badge&logo=tiktok&logoColor=00BFFF" alt="TikTok" />
 </a>
-<a href="https://x.com/2029371765043220480">
+<a href="https://x.com/2029371765043220480" target="_blank">
   <img src="https://img.shields.io/badge/X-050A0F?style=for-the-badge&logo=x&logoColor=00BFFF" alt="X" />
 </a>
 
