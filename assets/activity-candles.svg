@@ -61,20 +61,20 @@
 <rect x="720.9" y="220.0" width="13.8" height="1.5" fill="#00BFFF" opacity="0.9" rx="1"/>
 <line x1="755.5" y1="220.0" x2="755.5" y2="220.0" stroke="#00BFFF" stroke-width="1.4" opacity="0.9"/>
 <rect x="748.6" y="220.0" width="13.8" height="1.5" fill="#00BFFF" opacity="0.9" rx="1"/>
-<line x1="783.2" y1="220.0" x2="783.2" y2="220.0" stroke="#00BFFF" stroke-width="1.4" opacity="0.9"/>
+<line x1="783.2" y1="30.0" x2="783.2" y2="220.0" stroke="#00BFFF" stroke-width="1.4" opacity="0.9"/>
 <rect x="776.3" y="220.0" width="13.8" height="1.5" fill="#00BFFF" opacity="0.9" rx="1"/>
-<line x1="810.8" y1="30.0" x2="810.8" y2="220.0" stroke="#00BFFF" stroke-width="1.4" opacity="0.9"/>
-<rect x="803.9" y="220.0" width="13.8" height="1.5" fill="#00BFFF" opacity="0.9" rx="1"/>
-<line x1="838.5" y1="30.0" x2="838.5" y2="220.0" stroke="#73E5A6" stroke-width="1.4" opacity="0.9"/>
-<rect x="831.6" y="30.0" width="13.8" height="190.0" fill="#73E5A6" opacity="0.9" rx="1"/>
-<line x1="866.2" y1="30.0" x2="866.2" y2="220.0" stroke="#00BFFF" stroke-width="1.4" opacity="0.9"/>
-<rect x="859.3" y="30.0" width="13.8" height="190.0" fill="#00BFFF" opacity="0.9" rx="1"/>
-<text x="63.8" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-03</text>
-<text x="202.2" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-08</text>
-<text x="340.5" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-13</text>
-<text x="478.8" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-18</text>
-<text x="617.2" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-23</text>
-<text x="755.5" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-28</text>
-<text x="866.2" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">09-01</text>
-<text x="880" y="20" fill="#73E5A6" font-size="12" text-anchor="end" font-weight="bold">6 commits · 1 up days</text>
+<line x1="810.8" y1="30.0" x2="810.8" y2="220.0" stroke="#73E5A6" stroke-width="1.4" opacity="0.9"/>
+<rect x="803.9" y="30.0" width="13.8" height="190.0" fill="#73E5A6" opacity="0.9" rx="1"/>
+<line x1="838.5" y1="30.0" x2="838.5" y2="220.0" stroke="#00BFFF" stroke-width="1.4" opacity="0.9"/>
+<rect x="831.6" y="30.0" width="13.8" height="190.0" fill="#00BFFF" opacity="0.9" rx="1"/>
+<line x1="866.2" y1="188.3" x2="866.2" y2="220.0" stroke="#73E5A6" stroke-width="1.4" opacity="0.9"/>
+<rect x="859.3" y="188.3" width="13.8" height="31.7" fill="#73E5A6" opacity="0.9" rx="1"/>
+<text x="63.8" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-04</text>
+<text x="202.2" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-09</text>
+<text x="340.5" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-14</text>
+<text x="478.8" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-19</text>
+<text x="617.2" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-24</text>
+<text x="755.5" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">08-29</text>
+<text x="866.2" y="236" fill="#C9D1D9" font-size="9" text-anchor="middle" opacity="0.7">09-02</text>
+<text x="880" y="20" fill="#73E5A6" font-size="12" text-anchor="end" font-weight="bold">7 commits · 2 up days</text>
 </svg>
