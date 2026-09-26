@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="180" viewBox="0 0 854 180">
+  <title>Purple and cyan joined waves</title>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8F00FF" />
+      <stop offset="25%" stop-color="#00BFFF" />
+      <stop offset="50%" stop-color="#A855FF" />
+      <stop offset="75%" stop-color="#00D9FF" />
+      <stop offset="100%" stop-color="#8F00FF" />
+    </linearGradient>
+  </defs>
+  <!-- Each silhouette spans the center, so there is no seam between the two waves. -->
+  <g fill="url(#wave)">
+    <path opacity="0.22" d="M0 28C130 78 220 0 360 27S640 82 854 22V149C700 96 620 180 470 151S170 107 0 155Z" />
+    <path opacity="0.45" d="M0 48C160 -5 250 79 415 45S710 10 854 48V130C690 182 570 103 415 139S140 167 0 130Z" />
+    <path d="M0 65C145 112 245 22 410 60S690 105 854 62V113C700 69 600 162 435 123S155 86 0 125Z" />
+  </g>
+  <g fill="none" stroke="#E0FCFF" stroke-width="1.5" opacity="0.6">
+    <path d="M0 65C145 112 245 22 410 60S690 105 854 62" />
+    <path d="M0 125C155 86 270 84 435 123S700 69 854 113" />
+  </g>
+</svg>

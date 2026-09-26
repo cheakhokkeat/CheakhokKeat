@@ -1,13 +1,9 @@
 <!-- GitHub strips inline CSS. Keep layout in supported HTML attributes and decoration in image assets. -->
 <div align="center">
 
-  <!-- Update the portrait in assets/profile-avatar.jpg, then run python scripts/generate_profile_panel.py. -->
-  <img width="854" src="./assets/profile-panel.svg" alt="Cheakhok Keat portrait on a purple and cyan gradient" />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:5B00FF,20:7A00FF,40:00BFFF,50:00D9FF,60:4169E1,80:8A2BE2,100:5B00FF&height=200&section=header&text=Cheakhok%20Keat&fontSize=55&fontColor=F2FFFF&animation=twinkling&fontAlignY=20&fontAlign=50&desc=Software%20Engineer%20(Full-Stack%20Web)%20%7C%20AI%20Automations%20%7C%20Solutions%20Architect&descSize=15&descAlignY=50&descColor=F2FFFF&descAnimation=twinkling"
-    alt="profile-banner"
-  />
+  <!-- GitHub avatar syncs daily via Update Profile Panel in Actions; run it manually for an earlier refresh.
+       Local rebuild: python scripts/generate_profile_panel.py (uses assets/profile-avatar.jpg). -->
+  <img width="854" src="./assets/profile-panel.svg" alt="Cheakhok Keat - Software Engineer (Full-Stack Web), AI Automations, Solutions Architect" />
 
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Software+Engineer;Full-Stack+Web;AI+Automation;Solution+Architect" alt="typing-intro"/>
@@ -39,8 +35,7 @@
 
 I'm a **Software Development student**, currently building practical skills across frontend, backend, and databases. I learn best by building small real projects and researching problems as they come up.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:8f00ff,25:00BFFF,50:8f00ff,75:00BFFF,100:8f00ff&height=90" width="100%" alt="rotated-banner" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f00ff,25:00BFFF,50:8f00ff,75:00BFFF,100:8f00ff&height=90" width="100%" alt="profile-banner-bottom" />
+<img src="./assets/wave-divider.svg" width="100%" alt="Joined purple and cyan waves" />
 
 <div align="center">
   <img alt="GitHub statistics" width="550" src="https://github-readme-mwendwa.vercel.app/api?username=cheakhokkeat&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
@@ -254,5 +249,4 @@ I'm a **Software Development student**, currently building practical skills acro
   <sub>©️cheakhokkeat</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:8f00ff,25:00BFFF,50:8f00ff,75:00BFFF,100:8f00ff&height=90" width="100%" alt="rotated-banner" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f00ff,25:00BFFF,50:8f00ff,75:00BFFF,100:8f00ff&height=90" width="100%" alt="footer-bottom"/>
+<img src="./assets/wave-divider.svg" width="100%" alt="Joined purple and cyan waves" />

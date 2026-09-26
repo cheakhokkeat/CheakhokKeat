@@ -11,10 +11,15 @@ on:
       - "scripts/generate_activity_candles.py"
 
   schedule:
-    - cron: "15 0 * * *"
+    # Daily at 00:00 in Cambodia (17:00 UTC on the previous day).
+    - cron: "0 17 * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-assets-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update-chart:
