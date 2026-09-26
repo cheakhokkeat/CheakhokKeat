@@ -46,6 +46,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No chart changes to commit."
           else
-            git commit -m "chore: update activity candlestick chart"
+            git commit -m "Update activity candlestick chart"
             git push
           fi

@@ -1,0 +1,54 @@
+name: Generate Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate pacman contribution graph SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Convert SVG to Exact Dark Theme with White Lines
+        run: |
+          python3 -c "
+          with open('dist/pacman-contribution-graph.svg', 'r') as f:
+              content = f.read()
+
+          # Replace light background with GitHub Dark #0d1117 and grid tiles #161b22
+          content = content.replace('fill=\"#ffffff\"', 'fill=\"#0d1117\"')
+          content = content.replace('fill=\"#FFFFFF\"', 'fill=\"#0d1117\"')
+          content = content.replace('fill=\"white\"', 'fill=\"#0d1117\"')
+          content = content.replace('fill=\"#ebedf0\"', 'fill=\"#161b22\"')
+          
+          # Keep maze lines crisp WHITE #ffffff
+          content = content.replace('stroke=\"#000000\"', 'stroke=\"#ffffff\"')
+          content = content.replace('stroke=\"black\"', 'stroke=\"#ffffff\"')
+          
+          # Month labels light gray
+          content = content.replace('fill=\"#000000\"', 'fill=\"#8b949e\"')
+          content = content.replace('fill=\"black\"', 'fill=\"#8b949e\"')
+
+          with open('dist/pacman-contribution-graph.svg', 'w') as f:
+              f.write(content)
+          "
+
+      - name: push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
