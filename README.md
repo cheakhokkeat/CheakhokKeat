@@ -153,7 +153,9 @@ I'm a **Software Development student**, currently building practical skills acro
     GitHub Trophies
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Internet" height="40">
   </h1>
-  <img align="center" width="90%" src="https://github-trophies.vercel.app/?username=cheakhokkeat&theme=radical&margin-w=4&margin-h=4" alt="GitHub trophies">
+  <div align="center">
+  <img width="90%" src="https://github-trophies.vercel.app/?username=cheakhokkeat&theme=radical&margin-w=4&margin-h=4" alt="GitHub trophies">
+  </div>
 </div>
 
 <br>
