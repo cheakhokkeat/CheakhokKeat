@@ -1,39 +1,38 @@
-<!-- GitHub strips inline CSS. Keep layout in supported HTML attributes and decoration in image assets. -->
-<div align="center">
-
-  <!-- GitHub avatar syncs daily via Update Profile Panel in Actions; run it manually for an earlier refresh.
-       Local rebuild: python scripts/generate_profile_panel.py (uses assets/profile-avatar.jpg). -->
   <img width="854" src="./assets/profile-panel.svg" alt="Cheakhok Keat - Software Engineer (Full-Stack Web), AI Automations, Solutions Architect" />
-
-  <div>
+  <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Software+Engineer;Full-Stack+Web;AI+Automation;Solution+Architect" alt="typing-intro"/>
   </div>
 
-  <div>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light-Bulb" width="30" height="30" />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light-Bulb" width="40" height="40" />
   </div>
 
   <br>
 
-  <div>
+  <div align="center">
     <a href="https://maps.app.goo.gl/ogGM6A5FwJN3xuNn7">
-      <img src="https://img.shields.io/badge/CAMBODIA-555555?style=for-the-badge&logo=googlemaps&logoColor=00BFFF" alt="Cambodia" />
+      <img src="https://img.shields.io/badge/CAMBODIA-555555?style=flat&logo=googlemaps&logoColor=00BFFF" alt="Cambodia" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=cheakhokkeat&label=TRAFFIC&color=00BFFF&style=for-the-badge" alt="traffic" />
-  </div>
+    <img src="https://komarev.com/ghpvc/?username=cheakhokkeat&label=TRAFFIC&color=00BFFF&style=flat" alt="traffic" />
+    <a href="https://github.com/cheakhokkeat?tab=repositories">
+    <img src="https://img.shields.io/github/stars/cheakhokkeat?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
 </div>
+<br>
 
-<div>
+<div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Internet" height="40">
     About Me
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Internet" height="40">
   </h1>
 </div>
-
+<div align="center">
 I'm a **Software Development student**, currently building practical skills across frontend, backend, and databases. I learn best by building small real projects and researching problems as they come up.
+</div>
+
 
 <img src="./assets/wave-divider.svg" width="100%" alt="Joined purple and cyan waves" />
 
@@ -41,9 +40,12 @@ I'm a **Software Development student**, currently building practical skills acro
   <img alt="GitHub statistics" width="550" src="https://github-readme-mwendwa.vercel.app/api?username=cheakhokkeat&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
 </div>
 
-<h3>&gt; Programming Languages</h3>
+<h3>
+&gt; Programming Languages
+<img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png">
+</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="58" height="58"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58"/>
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Cpp" width="58" height="58"/>
@@ -51,36 +53,41 @@ I'm a **Software Development student**, currently building practical skills acro
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="58" height="58"/>
 </div>
 
-<h3>&gt; Frontend Development</h3>
+<h3>
+&gt; Frontend Development
+<img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png"></h3>
 
-<div align="center">
+<div align="left">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend" />
   </a>
 </div>
 
-<h3>&gt; Backend Development</h3>
+<h3>&gt; Backend Development
+<img width="40px" src="./assets/emoji/Brain.png"></h3>
 
-<div align="center">
+<div align="left">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="58" height="58"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58"/>
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Cpp" width="58" height="58"/>
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="Csharp" width="58" height="58"/>
 </div>
 
-<h3>&gt; Frameworks and Libraries</h3>
+<h3>&gt; Frameworks and Libraries
+<img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"></h3>
 
-<div align="center">
+<div align="left">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,spring,dotnet&theme=dark" alt="Frameworks" />
   </a>
 </div>
 
-<h3>&gt; Database Systems</h3>
+<h3>&gt; Database Systems
+<img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png"></h3>
 
-<div align="center">
+<div align="left">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
@@ -88,27 +95,20 @@ I'm a **Software Development student**, currently building practical skills acro
   <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00Mjg2OTY2LXpmUkswbw?revision=4" height="48" alt="SQL Server" />
 </div>
 
-<h3>&gt; Development Tools</h3>
+<h3>&gt; Development Tools
+<img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png"></h3>
 
-<div align="center">
+<div align="left">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,arduino&theme=dark" alt="Tools" />
   </a>
 </div>
 
-<h3>&gt; Design Tools</h3>
+<h3>&gt; Operating System and Command Line
+<img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"></h3>
 
-<div align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" alt="Design" />
-  </a>
-</div>
-
-<h3>&gt; Operating System and Command Line</h3>
-
-<div align="center">
+<div align="left">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,powershell,bash&theme=dark" alt="OS" />
@@ -117,24 +117,11 @@ I'm a **Software Development student**, currently building practical skills acro
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/cheakhokkeat">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=00BFFF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;Always+Learning+New+Technologies;Turning+Ideas+into+Code;%E1%9E%A2%E1%9E%9A%E1%9E%82%E1%9E%BB%E1%9E%8E!"
-      alt="Animated developer quotes"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <img width="50%" src="./assets/skills-animation.gif" alt="skills animation">
-</div>
-
 <div>
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ferris%20Wheel.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Internet" height="40">
     GitHub Analytics
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ferris%20Wheel.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Internet" height="40">
   </h1>
 </div>
 
@@ -147,14 +134,10 @@ I'm a **Software Development student**, currently building practical skills acro
 
   <p>
     <img alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheakhokkeat&theme=github_dark" width="400" />
-    <img alt="GitHub activity statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cheakhokkeat&theme=github_dark" width="400" />
   </p>
   <p>
     <img alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheakhokkeat&theme=github_dark" width="400" />
-    <img alt="Commits by time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheakhokkeat&theme=github_dark" width="400" />
   </p>
-
-  <img alt="Most used languages" width="350" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=cheakhokkeat&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
   <br><br>
   <img width="715" src="./assets/activity-candles.svg" alt="GitHub contribution activity candlestick chart" />
   <br>
@@ -165,9 +148,9 @@ I'm a **Software Development student**, currently building practical skills acro
 
 <div>
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Internet" height="40">
     GitHub Trophies
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Internet" height="40">
   </h1>
   <img alt="GitHub trophies" width="100%" src="https://github-trophies.vercel.app/?username=cheakhokkeat&theme=radical&margin-w=4&margin-h=4">
 </div>
@@ -176,9 +159,9 @@ I'm a **Software Development student**, currently building practical skills acro
 
 <div>
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Internet" height="40">
     Holopin Badges
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Internet" height="40">
   </h1>
 
   <a href="https://holopin.io/@cheakhokkeat">
@@ -190,9 +173,9 @@ I'm a **Software Development student**, currently building practical skills acro
 
 <div>
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Internet" height="25">
-    Pacman
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Internet" height="40">
+    Enjoy with my activity
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Internet" height="40">
   </h1>
   <img src="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
 </div>
@@ -203,50 +186,50 @@ I'm a **Software Development student**, currently building practical skills acro
   <h3>
     Every small project is another step toward becoming a better developer.
   </h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Think+clearly.+Build+carefully.;Learn+from+every+error.;;A+bug+is+a+lesson+with+a+stack+trace.;Keep+coding.+Keep+improving.;%F0%9F%AB%B6%F0%9F%8F%BB+I+LOVE+YOU+%F0%9F%AB%B6%F0%9F%8F%BB" alt="Animated developer quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=8A2BE2&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Think+clearly,+Build+carefully;Learn+from+every+error;A+bug+is+a+lesson+with+a+stack+trace;Keep+coding+Keep+improving;%F0%9F%AB%B6%F0%9F%8F%BB+%F0%9F%AB%B6%F0%9F%8F%BB" alt="Animated developer quotes" />
 </div>
 
-<div>
+<div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Internet" height="40">
     Connect With Me
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Internet" height="25">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Internet" height="40">
   </h1>
 
   <a href="https://github.com/cheakhokkeat">
-    <img src="https://img.shields.io/badge/GITHUB-050A0F?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/100045519039016">
-    <img src="https://img.shields.io/badge/FACEBOOK-050A0F?style=for-the-badge&logo=facebook&logoColor=00BFFF" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/cheakhokkeat">
-    <img src="https://img.shields.io/badge/INSTAGRAM-050A0F?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram" />
+    <img src="https://img.shields.io/badge/GITHUB-050A0F?style=social&logo=github&logoColor=050A0F" alt="GitHub" />
   </a>
   <a href="https://t.me/cheakhokkeat">
-    <img src="https://img.shields.io/badge/TELEGRAM-050A0F?style=for-the-badge&logo=telegram&logoColor=00BFFF" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-050A0F?style=social&logo=telegram&logoColor=050A0F" alt="Telegram" />
   </a>
   <a href="https://t.me/cheakhokkeatofficial">
-    <img src="https://img.shields.io/badge/TELEGRAM_COMMUNITY-050A0F?style=for-the-badge&logo=telegram&logoColor=00BFFF" alt="Telegram Community" />
+    <img src="https://img.shields.io/badge/TELEGRAM_COMMUNITY-050A0F?style=social&logo=telegram&logoColor=050A0F" alt="Telegram Community" />
+  </a>
+  <a href="https://www.facebook.com/100045519039016">
+    <img src="https://img.shields.io/badge/FACEBOOK-050A0F?style=social&logo=facebook&logoColor=050A0F" alt="Facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCTWO0kbbori1ESkdxPZSn4A?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YOUTUBE-050A0F?style=for-the-badge&logo=youtube&logoColor=00BFFF" alt="YouTube" />
-  </a>
-  <a href="https://www.tiktok.com/@7613071806707139614">
-    <img src="https://img.shields.io/badge/TIKTOK-050A0F?style=for-the-badge&logo=tiktok&logoColor=00BFFF" alt="TikTok" />
+    <img src="https://img.shields.io/badge/YOUTUBE-050A0F?style=social&logo=youtube&logoColor=050A0F" alt="YouTube" />
   </a>
   <a href="https://x.com/2029371765043220480">
-    <img src="https://img.shields.io/badge/X-050A0F?style=for-the-badge&logo=x&logoColor=00BFFF" alt="X" />
+    <img src="https://img.shields.io/badge/X-050A0F?style=social&logo=x&logoColor=050A0F" alt="X" />
+  </a>
+  <a href="https://www.tiktok.com/@7613071806707139614">
+    <img src="https://img.shields.io/badge/TIKTOK-050A0F?style=social&logo=tiktok&logoColor=050A0F" alt="TikTok" />
+  <a href="https://www.instagram.com/cheakhokkeat">
+    <img src="https://img.shields.io/badge/INSTAGRAM-050A0F?style=social&logo=instagram&logoColor=050A0F" alt="Instagram" />
+  </a>
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tornado.png" alt="Internet" height="25">
-  <b>Don't Forget Cheakhok Keat</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tornado.png" alt="Internet" height="25">
-  <br>
-  <sub>©️cheakhokkeat</sub>
+  <a href="">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Parrot.png" alt="Internet" height="40">
+  <h>Don't Forget Cheakhok Keat</h>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Parrot.png" alt="Internet" height="40">
+  </a>
 </div>
 
 <img src="./assets/wave-divider.svg" width="100%" alt="Joined purple and cyan waves" />
