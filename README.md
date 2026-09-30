@@ -30,6 +30,7 @@
   </h1>
 </div>
 <div align="center">
+
 I'm a **Software Development student**, currently building practical skills across frontend, backend, and databases. I learn best by building small real projects and researching problems as they come up.
 </div>
 
@@ -37,7 +38,13 @@ I'm a **Software Development student**, currently building practical skills acro
 <img src="./assets/wave-divider.svg" width="100%" alt="Joined purple and cyan waves" />
 
 <div align="center">
-  <img alt="GitHub statistics" width="550" src="https://github-readme-mwendwa.vercel.app/api?username=cheakhokkeat&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff"/>
+  <img alt="GitHub contribution streak"
+    width="60%"
+    src="https://streak-stats.demolab.com?user=cheakhokkeat&count_private=true&theme=blue-green&title_color=00BFFF&hide_border=false&border=00BFFF&background=050A0F&stroke=00BFFF&ring=CE2029&fire=CE2029&currStreakNum=8A2BE2&sideNums=00A6FF&currStreakLabel=CE2029&sideLabels=8A2BE2&dates=8B949E"
+  />
+  <br>
+  <img width="50%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=cheakhokkeat&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Abdul Rehman's GitHub Stats" />
+  <img width="45%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cheakhokkeat&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 </div>
 
 <h3>
@@ -126,22 +133,16 @@ I'm a **Software Development student**, currently building practical skills acro
 </div>
 
 <div align="center">
-  <img alt="GitHub contribution streak"
-    width="550"
-    src="https://streak-stats.demolab.com?user=cheakhokkeat&count_private=true&theme=blue-green&title_color=00BFFF&hide_border=false&border=00BFFF&background=050A0F&stroke=00BFFF&ring=8A2BE2&fire=CE2029&currStreakNum=8A2BE2&sideNums=00A6FF&currStreakLabel=CE2029&sideLabels=8A2BE2&dates=8B949E"
-  />
-  <br><br>
+<img width="90%" src="https://github-analytics-incog.vercel.app/api?username=cheakhokkeat&theme=github_dark&profile=false" alt="GitHub Analytics" /> </div>
 
-  <p>
-    <img alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheakhokkeat&theme=github_dark" width="400" />
-  </p>
-  <p>
-    <img alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheakhokkeat&theme=github_dark" width="400" />
-  </p>
-  <br><br>
-  <img width="715" src="./assets/activity-candles.svg" alt="GitHub contribution activity candlestick chart" />
+<div align="center">
   <br>
-  <img alt="GitHub profile activity" width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheakhokkeat&theme=github_dark"/>
+  <p>
+    <img width="45%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheakhokkeat&theme=github_dark" />
+    <img width="45%" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheakhokkeat&theme=github_dark" />
+  </p>
+  
+  <img width="90%" src="./assets/activity-candles.svg" alt="GitHub contribution activity candlestick chart" />
 </div>
 
 <br>
@@ -152,7 +153,7 @@ I'm a **Software Development student**, currently building practical skills acro
     GitHub Trophies
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Internet" height="40">
   </h1>
-  <img alt="GitHub trophies" width="100%" src="https://github-trophies.vercel.app/?username=cheakhokkeat&theme=radical&margin-w=4&margin-h=4">
+  <img align="center" width="90%" src="https://github-trophies.vercel.app/?username=cheakhokkeat&theme=radical&margin-w=4&margin-h=4" alt="GitHub trophies">
 </div>
 
 <br>
@@ -163,10 +164,11 @@ I'm a **Software Development student**, currently building practical skills acro
     Holopin Badges
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Internet" height="40">
   </h1>
-
+  <div align="center">
   <a href="https://holopin.io/@cheakhokkeat">
-    <img src="https://holopin.me/cheakhokkeat" alt="An image of @cheakhokkeat's Holopin badges" />
+    <img width="90%"  src="https://holopin.me/cheakhokkeat" alt="An image of @cheakhokkeat's Holopin badges" />
   </a>
+  </div>
 </div>
 
 <br>
@@ -177,7 +179,7 @@ I'm a **Software Development student**, currently building practical skills acro
     Enjoy with my activity
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Internet" height="40">
   </h1>
-  <img src="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
+  <img align="center" width="100%" src="https://raw.githubusercontent.com/cheakhokkeat/cheakhokkeat/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
 </div>
 
 <br>
